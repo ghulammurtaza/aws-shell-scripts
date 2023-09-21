@@ -1,0 +1,4 @@
+.DS_Store
+s3_bucket_info.csv
+cloudwatch_log_groups_info.csv
+workspace.vw-scripts.code-workspace
